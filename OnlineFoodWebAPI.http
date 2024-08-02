@@ -1,0 +1,6 @@
+@OnlineFoodWebAPI_HostAddress = http://localhost:5268
+
+GET {{OnlineFoodWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

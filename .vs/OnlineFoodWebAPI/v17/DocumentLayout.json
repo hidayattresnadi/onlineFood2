@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\interfaces\\iiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:interfaces\\iiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|c:\\users\\hidayat tresnadi\\onedrive\\desktop\\jawaban test sole code academy\\onlinefoodwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B98B146-D28F-45D8-A385-8DC7174E149F}|OnlineFoodWebAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:21:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:50:48.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Services\\MenuService.cs",
+              "RelativeToolTip": "Services\\MenuService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv0gAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:41:29.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Controllers\\MenuController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwGIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:14:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwPQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:01:28.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:36:41.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:12:44.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:36:22.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:45:21.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwEsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:00:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\IMenuService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\IMenuService.cs",
+              "RelativeToolTip": "Interfaces\\IMenuService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:19:20.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Menu.cs",
+              "RelativeToolTip": "Models\\Menu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:24:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Iiservice.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\Iiservice.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Iiservice.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\Iiservice.cs",
+              "RelativeToolTip": "Interfaces\\Iiservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:29:41.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "Interfaces\\ICustomerService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:42:23.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:51:25.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Hidayat tresnadi\\OneDrive\\Desktop\\Jawaban Test Sole Code Academy\\OnlineFoodWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:15:36.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
